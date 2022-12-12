@@ -14,7 +14,7 @@ Discounting the highly personal and subjective factors, for which obtaining data
 
 ### Datasets
 
-The `data/` folder contains the datasets which have been from Kaggle. The following datasets are used:
+The `data/` folder contains the datasets which have been taken from Kaggle. The following datasets are used:
 
  - World Happiness Report: This dataset is an aggregation of Gallup World Poll Data from 2007 till 2021, which has been made publicly available in Kaggle. Link: [World Happiness Report](https://www.kaggle.com/datasets/unsdsn/world-happiness)
  - Human Development Index: This dataset, originally sourced from UNDP's Human Development Reports and publicly made available in Kaggle, contains more than 30 years of Human Development Index (HDI) data of 195 countries (superset of countries in World Happiness Data), and the the different factors that influence HDI. Link: [Human Development Index](https://www.kaggle.com/datasets/iamsouravbanerjee/human-development-index-dataset/code)
@@ -23,7 +23,7 @@ The `data/` folder contains the datasets which have been from Kaggle. The follow
 
 ### Jupyter Notebook
 
-The [Jupyter Notebook](ECE225A_Project.ipynb) has entire code which can be run to generate the visualizations.
+The [Jupyter Notebook](ECE225A_Project.ipynb) has the entire code which can be run to generate the visualizations.
 
 ## Third Party Modules
 
@@ -41,8 +41,8 @@ The third party modules used are as listed below:
 
 ## How to run the code
 
-- Install all required third party modeule
+- Install all required third party modules
 
 - Download and import all the datasets
 
-- Run compete notebook or particular cells of [`project.ipynb`](ECE225A_Project.ipynb) for viewing the plots.
+- Run complete notebook or particular cells of [`ECE225A_Project.ipynb`](ECE225A_Project.ipynb) for viewing the plots.
